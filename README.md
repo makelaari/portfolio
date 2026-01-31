@@ -7,7 +7,7 @@ Website is hosted via vercel.com
 
 ## Link
 
-https://www.makelaari.dev/
+https://makelaari-portfolio.vercel.app
 
 
 ### Made with:
